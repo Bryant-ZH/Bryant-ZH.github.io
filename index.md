@@ -9,7 +9,7 @@ This is my home page! My name is Bryant and I am a student at [Cal State Fullert
 CPSC 120
 --- 
 **Lab 3, Part 2**
-```C++
+```Cpp
 int DateDifference(int start_month, int start_day, int start_year,
                    int end_month, int end_day, int end_year) {
   int start_date = JulianDay(start_month, start_day, start_year);
@@ -23,7 +23,7 @@ int DateDifference(int start_month, int start_day, int start_year,
 >two dates into a Julian date and give the difference between them. 
 
 **Lab 4, Part 1**
-```C++
+```Cpp
 int main(int argc, char const *argv[]) {
   double mil{0.0};
   std::cout << "Enter ml: ";
@@ -47,7 +47,7 @@ int main(int argc, char const *argv[]) {
 >functions.  The program itself is also helpful since it converts milliliters into other measurements. 
 
 **Lab 5, Part 2**
-```C++
+```Cpp
 int TruncateDouble(double decimal_number) {
   double integer_part = (trunc(decimal_number));
   int converted_integer_part = 0;
