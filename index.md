@@ -3,7 +3,7 @@
 I am a computer science major at CSUF
 [My github profile](https://github.com/Bryant-ZH)
 
-## Some Labs I have done in the past
+### Some Labs I have done in the past
 ---
 Lab 3, Part 2
 I really enjoyed this part of the lab because it was quite lengthy at the time and seeing it work was awesome.  
