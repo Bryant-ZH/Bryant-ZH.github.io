@@ -1,11 +1,13 @@
 # `Bryant-ZH's Portfolio`
 
-I am a computer science major at CSUF
+This is my home page! My name is Bryant and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
 
 [My github profile](https://github.com/Bryant-ZH)
 
 ### Some labs I have done in the past:
 
+CPSC 120
+--- 
 **Lab 3, Part 2**
 
 >I really enjoyed this part of the lab because it was quite lengthy at the time and seeing it work was awesome.  
