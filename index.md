@@ -3,7 +3,7 @@
 I am a computer science major at CSUF
 
 [My github profile](https://github.com/Bryant-ZH)
----
+
 ### Some labs I have done in the past:
 
 **Lab 3, Part 2**
@@ -20,8 +20,8 @@ I am a computer science major at CSUF
 
 **Lab 5, Part 2**
 
-This lab was interesting to me because we got to use the trunc() function and static_cast to convert doubles
-into integers.  We also had to check to see if we could convert by using std::numeric_limits<int>::max() and
-std::numeric_limits<int>::min().  This was needed in order to convert a given decimal number into a number 
-with a fraction.
+>This lab was interesting to me because we got to use the trunc() function and static_cast to convert doubles
+>into integers.  We also had to check to see if we could convert by using std::numeric_limits<int>::max() and
+>std::numeric_limits<int>::min().  This was needed in order to convert a given decimal number into a number 
+>with a fraction.
 
